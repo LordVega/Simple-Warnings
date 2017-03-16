@@ -1,0 +1,7 @@
+These are the basic commands to be used in-game:
+
+- /warn <username> (warns a player with a message) 
+- /listwarnings <username> (lists a players current warnings)
+- /cwarns <username> (clears all current warnings from a user)
+- /dwarn <username> (deletes a warn from the /listwarnings list)
+- /warn help (displays all commands)
